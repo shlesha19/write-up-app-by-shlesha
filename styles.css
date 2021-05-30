@@ -1,0 +1,16 @@
+.bookcover {
+  height:100%;
+  width:100%;
+  background-color: palevioletred;
+  border-radius: 10px;
+}
+
+textarea {
+  height:90%;
+  width:90%;
+  background-color: azure ;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
