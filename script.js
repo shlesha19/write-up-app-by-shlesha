@@ -1,1 +1,5 @@
-console.log('hello!')
+function print() {
+  var prtContent = document.getElementsById("page");
+  
+  window.print(prtContent);
+}
